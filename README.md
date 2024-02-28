@@ -34,11 +34,13 @@ The objective of my cybersecurity portfolio is to showcase my expertise, experie
 
 </div>
 
-### Endpoint Analysis
+### Endpoint Detection and Response(EDR/XDR)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-OSQUERY-4B275F?&style=for-the-badge&logo=OSQUERY&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-215732?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+
 </div>
 
 ### Malware Analysis
@@ -90,6 +92,9 @@ The objective of my cybersecurity portfolio is to showcase my expertise, experie
 <div>
     <img src="https://img.shields.io/badge/-Opensense%20Firewall-222222?&style=for-the-badge&logo=Opensense&logoColor=white" />
     <img src="https://img.shields.io/badge/-Squid%20Web%20Proxy-1A1A1A?&style=for-the-badge&logo=Squid&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Sysmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
 
 <div>
 
