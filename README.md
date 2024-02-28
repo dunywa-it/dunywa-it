@@ -15,20 +15,22 @@ I am a recent graduate with a profound interest in technology and a dedication t
 The objective of my cybersecurity portfolio is to showcase my expertise, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
 
 ## Projects Overview
-|  Category    |     Project     |                 Skills                |     Tools       |     
-|--------------| --------------- | ------------------------------------- | --------------- | 
-|              | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  
-|              |  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |    
-|              |                 |                                       |                 |
+|  Category           |     Project     |                 Skills                |     Tools       |     
+|---------------------| --------------- | ------------------------------------- | --------------- | 
+|                     | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  
+|                     |  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |    
+|                     |                 |                                       |                 |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
-### Network Analysis
+### Network Security Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sguil-000000?&style=for-the-badge&logo=Sguil&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Onion-000000?&style=for-the-badge&logo=Security%20Onion&logoColor=white" />
+
 
 </div>
 
@@ -85,6 +87,11 @@ The objective of my cybersecurity portfolio is to showcase my expertise, experie
 <div>
 
 ### Security Engineering
+<div>
+    <img src="https://img.shields.io/badge/-Opensense%20Firewall-222222?&style=for-the-badge&logo=Opensense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Squid%20Web%20Proxy-1A1A1A?&style=for-the-badge&logo=Squid&logoColor=white" />
+
+<div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
