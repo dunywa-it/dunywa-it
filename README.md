@@ -3,6 +3,11 @@
 ## Hi, I am Mvula Dunywa
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?&style=for-the-badge&logo=WhatsApp&logoColor=white" />
+
+
+
 
 ## Profile
 
@@ -23,11 +28,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sguil-000000?&style=for-the-badge&logo=Sguil&logoColor=white" />
+
 </div>
 
 ### Endpoint Analysis
@@ -37,7 +44,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-OSQUERY-4B275F?&style=for-the-badge&logo=OSQUERY&logoColor=white" />
 </div>
 
-### EMalware Analysis
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-REMnux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YARA-000000?&style=for-the-badge&logo=YARA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-000000?&style=for-the-badge&logo=Cuckoo%20Sandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-FF6E21?&style=for-the-badge&logo=Any.Run&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-000000?&style=for-the-badge&logo=PEStudio&logoColor=white" />
+
+
+<div>
 
 ### Security Information and Event Management(SIEM)
 <div>
@@ -53,17 +70,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Nmap-4B275F?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Masscan-4B275F?&style=for-the-badge&logo=Masscan&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nikto-4B275F?&style=for-the-badge&logo=Nikto&logoColor=white" />
-
-
     
 <div>
 
-### Network Security
-<div>
 
-<div>
 
-### Network Security
 
 ## Certifications
 <div>
