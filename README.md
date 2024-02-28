@@ -13,11 +13,8 @@
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Goal
-
 ## Objectives
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+The objective of my cybersecurity portfolio is to showcase my expertise, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
 
 ## Projects Overview
 |     Project     |                 Skills                |     Tools       |     
