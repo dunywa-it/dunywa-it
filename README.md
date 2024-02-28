@@ -3,10 +3,8 @@
 ## Hi, I am Mvula Dunywa
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
+<a href="https://www.youtube.com/@mvuladunywa"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
 <img src="https://img.shields.io/badge/-WhatsApp-25D366?&style=for-the-badge&logo=WhatsApp&logoColor=white" />
-
-
 
 
 ## Profile
@@ -17,11 +15,11 @@ I am a recent graduate with a profound interest in technology and a dedication t
 The objective of my cybersecurity portfolio is to showcase my expertise, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
 
 ## Projects Overview
-|     Project     |                 Skills                |     Tools       |     
-| --------------- | ------------------------------------- | --------------- | 
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  
-|  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |    
-|                 |                                       |                 |
+|  Category    |     Project     |                 Skills                |     Tools       |     
+|--------------| --------------- | ------------------------------------- | --------------- | 
+|              | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  
+|              |  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |    
+|              |                 |                                       |                 |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
