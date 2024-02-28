@@ -22,7 +22,7 @@ The objective of my cybersecurity portfolio is to showcase my expertise, experie
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  
 |  <a href="https://google.com">Detection Lab</a>|              |                                       |                 |    
 |                 |                                       |                 |
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tools
 
 ### Network Analysis
@@ -70,7 +70,25 @@ The objective of my cybersecurity portfolio is to showcase my expertise, experie
     
 <div>
 
+### Detection Engineering
+<div>
+<img src="https://img.shields.io/badge/-Sigma-000000?&style=for-the-badge&logo=Sigma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-222222?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snort-008CDD?&style=for-the-badge&logo=Snort&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCanary-000000?&style=for-the-badge&logo=OpenCanary&logoColor=white" />
+<img src="https://img.shields.io/badge/-YARA-000000?&style=for-the-badge&logo=YARA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ElasticStack-005571?&style=for-the-badge&logo=ElasticStack&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic_API-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Atomic-181717?&style=for-the-badge&logo=Atomic&logoColor=white" />
+<img src="https://img.shields.io/badge/-TOML-229E20?&style=for-the-badge&logo=TOML&logoColor=white" />
 
+    
+<div>
+
+### Security Engineering
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Certifications
