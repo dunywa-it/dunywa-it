@@ -44,7 +44,7 @@
    <img src="https://img.shields.io/badge/-Remote%20Desktop-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 <div>
 
-### Cloud Administration
+### Azure Administration
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
