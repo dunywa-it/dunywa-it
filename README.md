@@ -50,7 +50,7 @@
    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-### Microsoft 365 Admin
+### Microsoft 365 Administration
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20SharePoint-0078D4?&style=for-the-badge&logo=Microsoft%20SharePoint&logoColor=white" />
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/-Microsoft%20Exchange%20Online-0078D4?&style=for-the-badge&logo=Microsoft%20Exchange&logoColor=white" />
 <div>
 
-### Windows Server Admin
+### Windows Server Administration
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Group%20Policy-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 <div>
 
-### Linux Server Admin
+### Linux Server Administration
 <div>
     <img src="https://img.shields.io/badge/-CSI_Linux-4B275F?&style=for-the-badge&logo=CSI_Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
